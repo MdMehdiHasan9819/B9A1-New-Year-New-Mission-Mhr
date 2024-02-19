@@ -78,6 +78,41 @@
     word-wrap: break-word
 }
 
+/* Holiday section */
+  .holiday-container{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    width: 1086px;
+    height: 600px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 150px;
+  }
+  .holiday-title{
+    color: #070211;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+  }
+  .title-holiday{
+color: #070211;
+font-size: 72px;
+font-family: Merriweather;
+font-weight: 900;
+word-wrap: break-word
+  }
+  .Holiday-span{
+color: #FF0000;
+font-size: 72px;
+font-family: Merriweather;
+font-weight: 900;
+word-wrap: break-wor
+  }
+  .holiday-img{
+    background-image: url('../Media/Rectangle\ 2.png');
+  }
+
 /* midnight party section css */
 .midnight-party{
     background-image: url(../media/Vectorrr.png);
@@ -247,14 +282,14 @@ margin: 15px 0px;
     margin: 0 auto;
     padding-top: 50px;
     color: white;
-    font-size: 24px;
+    font-size: 14px;
     font-family: Inter;
     font-weight: 500;
     word-wrap: break-word
 }
 .footer-title{
     color: white;
-font-size: 24px;
+font-size: 14px;
 font-family: Inter;
 font-weight: 500;
 line-height: 40px;
