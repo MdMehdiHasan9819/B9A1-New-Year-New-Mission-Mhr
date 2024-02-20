@@ -8,7 +8,7 @@
 /* banner section css */
 
 .banner-head{
-    background-image: url('../media/Banner\ Image.png'),linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0) 100%);
+    background-image: url('../Media/Banner\ Image.png');
     background-repeat: no-repeat;
     width: 1086px;
     height: 600px;
